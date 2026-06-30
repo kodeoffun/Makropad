@@ -8,3 +8,12 @@ This is a 8 switch + 1 button & 1 rotary encoder macro pad + an OLED display and
 ^^
 Lid will be screwed on 
 
+
+BOM:
+8x Cherry MX Switches
+8x DSA Keycaps
+8x 1N4148 Diodes
+1x 0.91" 128x32 OLED Display
+1x EC11 Rotary Encoder
+1x XIAO RP2040
+1x Case  (1 Lid and 1 Body 3d printed)
